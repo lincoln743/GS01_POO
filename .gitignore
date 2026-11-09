@@ -1,0 +1,24 @@
+# Compilados Java
+*.class
+out/
+bin/
+
+# Brief/enunciado do professor — NAO versionar
+Global_Solution*.pdf
+*Territory_Predictive_Insights*.pdf
+*CitizenTech*.pdf
+
+# Artefatos de compilacao do LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+.metadata/
